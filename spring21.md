@@ -15,7 +15,7 @@
 - [Lightning Email Template](emailtemp)
 
 - [Save Dashboard Results with Filter URL Parameters](#filterurl)
-
+- [Einstein OCR to detect (beta)(#eocr)
 
 <a name="customactions"></a>
 ### Pre Spring 21
@@ -111,8 +111,24 @@
 ![Dashboard - filter url]( https://resources.docs.salesforce.com/images/38f9b0a20cabda8dd84f5921ae742525.png)
 -  Create a custom URL that includes the filter parameters. Then when you access the URL, your dashboard opens with the filters already set.
 
+### References
+- [Save Dashboard Results with Filter URL Parameters](https://help.salesforce.com/articleView?id=release-notes.rn_rd_dashboards_filter_url.htm&type=5&release=230)
 
 
+<a name="eocr"></a>
+## Einstein OCR to Detect Text in PDFs (Beta)
+```
+curl -X POST -H "Authorization: Bearer <TOKEN>"\
+             -F sampleLocation="https://www.cloudkicks.com/annual_report.pdf"\
+             -F task="text"\
+             -F modelId="OCRModel"\
+             https://api.einstein.ai/v2/vision/ocr
+
+```
+
+### References 
+- [Use Einstein OCR to Detect Text in PDFs (Beta)](https://help.salesforce.com/articleView?id=release-notes.rn_einstein_vision_ocr_pdf_support.htm&type=5&release=230)
+- [What is Einstein OCR?](https://metamind.readme.io/docs/what-is-einstein-ocr)
 
 ## Links
 -  Spring21 Release Webinar for Enterprise Customers [SP]
