@@ -8,6 +8,8 @@
 - [Catch Potential Duplicates Before Saving](#dupcatch)
 - [Dynamic actions](#dynaactions)
 - [Page performance analyze](#pageperf)
+- [In-App-guidance](#iag)
+
 
 <a name="customactions"></a>
 ### Pre Spring 21
@@ -70,6 +72,17 @@
 
 ![page perf](img/page-perf-1.png)
 ![page perf2](img/page-perf-2.png)
+
+
+<a name="iag"></a>
+## In-App-Guidance
+![iag-1](img/iag-1.png)
+![iag-2](img/iag-2.png)
+![iag-3](img/iag-3.png)
+![iag-4](img/iag-4.png)
+
+
+
 
 
 ## Links
