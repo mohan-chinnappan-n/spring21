@@ -2,22 +2,28 @@
 
 
 ## Topics
-- [Showing Custom Actions button in the **Recently Viewed List**](#customactions)
-- [Share Records with Manual Sharing](#manualsharing)
-- [Field-Level Help Text limit: 255 to 510 chars](#fhelplimit)
-- [Catch Potential Duplicates Before Saving](#dupcatch)
-- [Dynamic actions](#dynaactions)
-- [Page performance analyze](#pageperf)
-- [In-App-guidance](#iag)
+- UI
+    - [Showing Custom Actions button in the **Recently Viewed List**](#customactions)
+    - [Share Records with Manual Sharing](#manualsharing)
+    - [Field-Level Help Text limit: 255 to 510 chars](#fhelplimit)
+    - [Catch Potential Duplicates Before Saving](#dupcatch)
+    - [Dynamic actions](#dynaactions)
+- Performance
+    - [Page performance analyze](#pageperf)
+- Adoption 
+    - [In-App-guidance](#iag)
 
-- [MS Teams Integration - Pilot](#msteams)
-- [Org Wide Email setup](#ow-email)
-- [Lightning Email Template](emailtemp)
+- Communications
+    - [MS Teams Integration - Pilot](#msteams)
+    - [Org Wide Email setup](#ow-email)
+    - [Lightning Email Template](emailtemp)
 
-- [Save Dashboard Results with Filter URL Parameters](#filterurl)
-- [Multi-Field Selection in Reports](#mfrpts)
+- Reports and Dashboards
+    - [Save Dashboard Results with Filter URL Parameters](#filterurl)
+    - [Multi-Field Selection in Reports](#mfrpts)
 
-- [Einstein OCR to detect] (beta)(#eocr)
+- Document processing
+    - [Einstein OCR to detect] (beta)(#eocr)
 
 <a name="customactions"></a>
 ### Pre Spring 21
