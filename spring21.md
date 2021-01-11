@@ -1,8 +1,11 @@
 # Spring 21 Release
 
-## Showing Custom Actions button in the **Recently Viewed List**
+
+## Topics
+- [Showing Custom Actions button in the **Recently Viewed List**](#customactions)
 
 
+<a name="customactions"></a>
 ## Pre Spring 21
 ![pre Spring 21](img/pre-s21-case-1.gif)
 ## Spring 21
@@ -12,6 +15,9 @@
 
 ## References
 - [Power Up Recently Viewed Lists with Customizable Actions](https://help.salesforce.com/articleView?id=release-notes.rn_lex_mru_list_actions.htm&type=5&release=230)
+
+
+
 
 
 ## Links
