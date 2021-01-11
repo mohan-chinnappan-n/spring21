@@ -7,6 +7,7 @@
 - [Field-Level Help Text limit: 255 to 510 chars](#fhelplimit)
 - [Catch Potential Duplicates Before Saving](#dupcatch)
 - [Dynamic actions](#dynaactions)
+- [Page performance analyze](#pageperf)
 
 <a name="customactions"></a>
 ### Pre Spring 21
@@ -64,8 +65,10 @@
 ### References
 - [Salesforce Dynamic Actions - How Salesforce Administrators Can Easily Control Visibility of Actions](https://www.youtube.com/watch?v=AE1J5JSdpdc&list=PLrC_ei2_Pv0Gb-uuA5UxFneaVSjkCepYQ)
 
+<a name="page-perf-1.png"></a>
+## Page Performance analyze
 
-
+![page perf](img/page-perf-1.png)
 
 ## Links
 -  Spring21 Release Webinar for Enterprise Customers [SP]
