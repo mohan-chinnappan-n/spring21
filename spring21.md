@@ -10,7 +10,7 @@
 - [Page performance analyze](#pageperf)
 - [In-App-guidance](#iag)
 
-- [MS Teams Integration](#msteams)
+- [MS Teams Integration - Pilot](#msteams)
 
 <a name="customactions"></a>
 ### Pre Spring 21
@@ -85,9 +85,14 @@
 
 
 <a name="msteams"></a>
-## MS Teams Integration
+## MS Teams Integration - Pilot
 ![MS Team](img/msteams-pilot-1.png)
 
+
+<a name="ow-email"></a>
+## Org Wide Email setup
+![ow-e-1](img/ow-email-1.png)
+![ow-e-2](img/ow-email-2.png)
 
 
 
