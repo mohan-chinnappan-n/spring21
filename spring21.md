@@ -69,6 +69,8 @@
 ## Page Performance analyze
 
 ![page perf](img/page-perf-1.png)
+![page perf2](img/page-perf-2.png)
+
 
 ## Links
 -  Spring21 Release Webinar for Enterprise Customers [SP]
