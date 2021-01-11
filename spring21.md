@@ -7,7 +7,7 @@
 ![pre Spring 21](img/pre-s21-case-1.gif)
 ## Spring 21
 
-![Spring 21]([img/s21-case-1.gif) 
+![Spring 21](img/s21-case-1.gif) 
 
 
 ## References
