@@ -125,7 +125,7 @@
 <a name="mfrpts"></a>  [TOPICS](#topics)
 ## Multi-Field Selection in Reports]
 - You can drag multiple fields to your reports with a single action. 
-![rpt mf](img/rpt-mf-1.png)
+![rpt mf](img/rept-mf-1.png)
 ![mfrpts](https://resources.docs.salesforce.com/images/fb63a482d2bdf3ccfa51e990145f175f.png)
 
 ## References
