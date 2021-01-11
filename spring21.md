@@ -11,6 +11,9 @@
 - [In-App-guidance](#iag)
 
 - [MS Teams Integration - Pilot](#msteams)
+- [Org Wide Email setup](#ow-email)
+
+
 
 <a name="customactions"></a>
 ### Pre Spring 21
