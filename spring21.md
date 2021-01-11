@@ -47,7 +47,7 @@
 ![dyna forms](img/dynamic-forms-1.png)
 ![dyna forms msg](img/dynamic-forms-2.png)
 
-![Dya forms](img/dynaforms-1.gif)
+![Dya forms](img/dyna-forms-1.gif)
 - Custom Objects for now
 
 ### References
