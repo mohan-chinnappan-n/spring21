@@ -10,6 +10,7 @@
 - [Page performance analyze](#pageperf)
 - [In-App-guidance](#iag)
 
+- [MS Teams Integration](#msteams)
 
 <a name="customactions"></a>
 ### Pre Spring 21
@@ -83,6 +84,9 @@
 ![iag-5](img/iag-5.png)
 
 
+<a name="msteams"></a>
+## MS Teams Integration
+![MS Team](img/msteams-pilot-1.png)
 
 
 
