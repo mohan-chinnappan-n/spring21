@@ -42,9 +42,11 @@
 
 
 <a name="dupcatch"></a>
-## Catch Potential Duplicates Before Saving]
+## Catch Potential Duplicates Before Saving
 
 ![dyna forms](img/dynamic-forms-1.png)
+![dyna forms msg](img/dynamic-forms-2.png)
+#
 ### References
 - [Catch Potential Duplicates Before Saving](https://help.salesforce.com/articleView?id=release-notes.rn_lex_duplicates.htm&type=5&release=230)
 - [Dynamic Forms](https://help.salesforce.com/articleView?id=dynamic_forms_migrate.htm&type=5)
