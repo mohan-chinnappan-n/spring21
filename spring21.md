@@ -15,6 +15,8 @@
 - [Lightning Email Template](emailtemp)
 
 - [Save Dashboard Results with Filter URL Parameters](#filterurl)
+- [Multi-Field Selection in Reports](#mfrpts)
+
 - [Einstein OCR to detect (beta)(#eocr)
 
 <a name="customactions"></a>
@@ -113,6 +115,14 @@
 
 ### References
 - [Save Dashboard Results with Filter URL Parameters](https://help.salesforce.com/articleView?id=release-notes.rn_rd_dashboards_filter_url.htm&type=5&release=230)
+
+<a name="mfrpts"></a>
+## Multi-Field Selection in Reports]
+- You can drag multiple fields to your reports with a single action. 
+![mfrpts](https://resources.docs.salesforce.com/images/fb63a482d2bdf3ccfa51e990145f175f.png)
+
+## References
+- [Streamline Report Creation with Multi-Field Selection](https://help.salesforce.com/articleView?id=release-notes.rn_rd_reports_multifield_select.htm&type=5&release=230)
 
 
 <a name="eocr"></a>
