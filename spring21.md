@@ -26,8 +26,8 @@
 ![manual sharing pre](img/mshare-1.png) 
 
 ### Spring 21
-![manual sharing s21](img/mshare-21-2.png) 
 ![manual sharing s21-2](img/mshare-21-1.png) 
+![manual sharing s21](img/mshare-21-2.png) 
 
 
 ## Links
