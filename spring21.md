@@ -25,7 +25,7 @@
 - Document processing
     - [Einstein OCR to detect (beta)](#eocr)
 
-<a name="customactions"></a>  [Topics](#topics)
+<a name="customactions"></a>  [TOPICS](#topics)
 ### Pre Spring 21
 ![pre Spring 21](img/pre-s21-case-1.gif)
 ### Spring 21
@@ -37,7 +37,7 @@
 - [Power Up Recently Viewed Lists with Customizable Actions](https://help.salesforce.com/articleView?id=release-notes.rn_lex_mru_list_actions.htm&type=5&release=230)
 
 
-<a name="manualsharing"></a>  [Topics](#topics)
+<a name="manualsharing"></a>  [TOPICS](#topics)
 ## Share Records with Manual Sharing 
 - Now you can share records and manage record shares in a new streamlined interface.
     - Previously, you need to switch to Salesforce Classic to give specific users and user groups access to records.
@@ -49,7 +49,7 @@
 ![manual sharing s21-2](img/mshare-21-1.png) 
 ![manual sharing s21](img/mshare-21-2.png) 
 
-<a name="fhelplimit"></a>  [Topics](#topics)
+<a name="fhelplimit"></a>  [TOPICS](#topics)
 ## Field-Level Help Text limit: 255 to 510 chars
 ![fhelp 510](img/fhelp-510-1.png)
 
@@ -58,7 +58,7 @@
 
 
 
-<a name="dupcatch"></a>  [Topics](#topics)
+<a name="dupcatch"></a>  [TOPICS](#topics)
 ## Catch Potential Duplicates Before Saving
 
 ![dyna forms](img/dynamic-forms-1.png)
@@ -74,21 +74,21 @@
 
 ## Dynamic Actions - How Salesforce Administrators Can Easily Control Visibility of Actions
 - Beta to GA
-<a name="dynaactions"></a>  [Topics](#topics)
+<a name="dynaactions"></a>  [TOPICS](#topics)
 ![dyna actions-1](img/dya-actions-01.png)
 ![dyna actions-2](img/dyna-actions-21.png )
 
 ### References
 - [Salesforce Dynamic Actions - How Salesforce Administrators Can Easily Control Visibility of Actions](https://www.youtube.com/watch?v=AE1J5JSdpdc&list=PLrC_ei2_Pv0Gb-uuA5UxFneaVSjkCepYQ)
 
-<a name="page-perf-1.png"></a>  [Topics](#topics)
+<a name="page-perf-1.png"></a>  [TOPICS](#topics)
 ## Page Performance analyze
 
 ![page perf](img/page-perf-1.png)
 ![page perf2](img/page-perf-2.png)
 
 
-<a name="iag"></a>  [Topics](#topics)
+<a name="iag"></a>  [TOPICS](#topics)
 ## In-App-Guidance
 ![iag-1](img/iag-1.png)
 ![iag-2](img/iag-2.png)
@@ -97,23 +97,23 @@
 ![iag-5](img/iag-5.png)
 
 
-<a name="msteams"></a>  [Topics](#topics)
+<a name="msteams"></a>  [TOPICS](#topics)
 ## MS Teams Integration - Pilot
 ![MS Team](img/msteams-pilot-1.png)
 
 
-<a name="ow-email"></a>  [Topics](#topics)
+<a name="ow-email"></a>  [TOPICS](#topics)
 ## Org Wide Email setup
 ![ow-e-1](img/ow-email-1.png)
 ![ow-e-2](img/ow-email-2.png)
 
-<a name="emailtemp"></a>  [Topics](#topics)
+<a name="emailtemp"></a>  [TOPICS](#topics)
 ## Lightning Email Template
 - ![Email template-1](img/email-templ-1.png)
 - ![Email template-2](img/email-templ-2.png)
 
 
-<a name="filterurl"></a>  [Topics](#topics)
+<a name="filterurl"></a>  [TOPICS](#topics)
 ## Save Dashboard Results with Filter URL Parameters
 
 ![Dashboard - filter url]( https://resources.docs.salesforce.com/images/38f9b0a20cabda8dd84f5921ae742525.png)
@@ -122,7 +122,7 @@
 ### References
 - [Save Dashboard Results with Filter URL Parameters](https://help.salesforce.com/articleView?id=release-notes.rn_rd_dashboards_filter_url.htm&type=5&release=230)
 
-<a name="mfrpts"></a>  [Topics](#topics)
+<a name="mfrpts"></a>  [TOPICS](#topics)
 ## Multi-Field Selection in Reports]
 - You can drag multiple fields to your reports with a single action. 
 ![rpt mf](img/ept-mf-1.png)
@@ -132,7 +132,7 @@
 - [Streamline Report Creation with Multi-Field Selection](https://help.salesforce.com/articleView?id=release-notes.rn_rd_reports_multifield_select.htm&type=5&release=230)
 
 
-<a name="eocr"></a>  [Topics](#topics)
+<a name="eocr"></a>  [TOPICS](#topics)
 ## Einstein OCR to Detect Text in PDFs (Beta)
 ```
 curl -X POST -H "Authorization: Bearer <TOKEN>"\
