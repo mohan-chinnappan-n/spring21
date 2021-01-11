@@ -99,8 +99,8 @@
 
 <a name="emailtemp"></a>
 ## Lightning Email Template
-- [Email template-1](img/email-templ-1.png)
-- [Email template-2](img/email-templ-2.png)
+- ![Email template-1](img/email-templ-1.png)
+- ![Email template-2](img/email-templ-2.png)
 
 ## Links
 -  Spring21 Release Webinar for Enterprise Customers [SP]
