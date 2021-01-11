@@ -14,6 +14,8 @@
 - [Org Wide Email setup](#ow-email)
 - [Lightning Email Template](emailtemp)
 
+- [Save Dashboard Results with Filter URL Parameters](#filterurl)
+
 
 <a name="customactions"></a>
 ### Pre Spring 21
@@ -101,6 +103,16 @@
 ## Lightning Email Template
 - ![Email template-1](img/email-templ-1.png)
 - ![Email template-2](img/email-templ-2.png)
+
+
+<a name="filterurl"></a>
+## Save Dashboard Results with Filter URL Parameters
+
+![Dashboard - filter url]( https://resources.docs.salesforce.com/images/38f9b0a20cabda8dd84f5921ae742525.png)
+-  Create a custom URL that includes the filter parameters. Then when you access the URL, your dashboard opens with the filters already set.
+
+
+
 
 ## Links
 -  Spring21 Release Webinar for Enterprise Customers [SP]
