@@ -6,6 +6,7 @@
 - [Share Records with Manual Sharing](#manualsharing)
 - [Field-Level Help Text limit: 255 to 510 chars](#fhelplimit)
 - [Catch Potential Duplicates Before Saving](#dupcatch)
+- [Dynamic actions](#dynaactions)
 
 <a name="customactions"></a>
 ### Pre Spring 21
@@ -31,7 +32,6 @@
 ![manual sharing s21-2](img/mshare-21-1.png) 
 ![manual sharing s21](img/mshare-21-2.png) 
 
-
 <a name="fhelplimit"></a>
 ## Field-Level Help Text limit: 255 to 510 chars
 ![fhelp 510](img/fhelp-510-1.png)
@@ -54,6 +54,17 @@
 ### References
 - [Catch Potential Duplicates Before Saving](https://help.salesforce.com/articleView?id=release-notes.rn_lex_duplicates.htm&type=5&release=230)
 - [Dynamic Forms](https://help.salesforce.com/articleView?id=dynamic_forms_migrate.htm&type=5)
+
+## Dynamic Actions - How Salesforce Administrators Can Easily Control Visibility of Actions
+- Beta to GA
+<a name="dynaactions"></a>
+![dyna actions-1](img/dya-actions-01.png)
+![dyna actions-2](img/dyna-actions-21.png )
+
+### References
+- [Salesforce Dynamic Actions - How Salesforce Administrators Can Easily Control Visibility of Actions](https://www.youtube.com/watch?v=AE1J5JSdpdc&list=PLrC_ei2_Pv0Gb-uuA5UxFneaVSjkCepYQ)
+
+
 
 
 ## Links
