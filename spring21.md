@@ -5,6 +5,8 @@
 - [Showing Custom Actions button in the **Recently Viewed List**](#customactions)
 - [Share Records with Manual Sharing](#manualsharing)
 - [Field-Level Help Text limit: 255 to 510 chars](#fhelplimit)
+- [Catch Potential Duplicates Before Saving](#dupcatch)
+
 <a name="customactions"></a>
 ### Pre Spring 21
 ![pre Spring 21](img/pre-s21-case-1.gif)
@@ -34,9 +36,19 @@
 ## Field-Level Help Text limit: 255 to 510 chars
 ![fhelp 510](img/fhelp-510-1.png)
 
-
 ### References
 [Define Field-Level Help](https://help.salesforce.com/articleView?id=customhelp_defining_field_level_help.htm&type=5)
+
+
+
+<a name="dupcatch"></a>
+## Catch Potential Duplicates Before Saving]
+
+![dyna forms](img/dynamic-forms-1.png)
+### References
+- [Catch Potential Duplicates Before Saving](https://help.salesforce.com/articleView?id=release-notes.rn_lex_duplicates.htm&type=5&release=230)
+- [Dynamic Forms](https://help.salesforce.com/articleView?id=dynamic_forms_migrate.htm&type=5)
+
 
 ## Links
 -  Spring21 Release Webinar for Enterprise Customers [SP]
