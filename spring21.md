@@ -46,7 +46,10 @@
 
 ![dyna forms](img/dynamic-forms-1.png)
 ![dyna forms msg](img/dynamic-forms-2.png)
-#
+
+![Dya forms](img/dynaforms-1.gif)
+- Custom Objects for now
+
 ### References
 - [Catch Potential Duplicates Before Saving](https://help.salesforce.com/articleView?id=release-notes.rn_lex_duplicates.htm&type=5&release=230)
 - [Dynamic Forms](https://help.salesforce.com/articleView?id=dynamic_forms_migrate.htm&type=5)
