@@ -12,7 +12,7 @@
 
 - [MS Teams Integration - Pilot](#msteams)
 - [Org Wide Email setup](#ow-email)
-
+- [Lightning Email Template](emailtemp)
 
 
 <a name="customactions"></a>
@@ -97,7 +97,10 @@
 ![ow-e-1](img/ow-email-1.png)
 ![ow-e-2](img/ow-email-2.png)
 
-
+<a name="emailtemp"></a>
+## Lightning Email Template
+- [Email template-1](img/email-templ-1.png)
+- [Email template-2](img/email-templ-2.png)
 
 ## Links
 -  Spring21 Release Webinar for Enterprise Customers [SP]
