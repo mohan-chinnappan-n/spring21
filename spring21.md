@@ -23,7 +23,7 @@
     - [Multi-Field Selection in Reports](#mfrpts)
 
 - Document processing
-    - [Einstein OCR to detect] (beta)(#eocr)
+    - [Einstein OCR to detect (beta)](#eocr)
 
 <a name="customactions"></a>
 ### Pre Spring 21
