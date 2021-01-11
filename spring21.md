@@ -32,6 +32,8 @@
 
 <a name="fhelplimit"></a>
 ## Field-Level Help Text limit: 255 to 510 chars
+![fhelp 510](img/fhelp-510-1.png)
+
 
 ### References
 [Define Field-Level Help](https://help.salesforce.com/articleView?id=customhelp_defining_field_level_help.htm&type=5)
