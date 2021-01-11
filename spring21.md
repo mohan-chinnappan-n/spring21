@@ -16,7 +16,7 @@
 - Communications
     - [MS Teams Integration - Pilot](#msteams)
     - [Org Wide Email setup](#ow-email)
-    - [Lightning Email Template](emailtemp)
+    - [Lightning Email Template](#emailtemp)
 
 - Reports and Dashboards
     - [Save Dashboard Results with Filter URL Parameters](#filterurl)
