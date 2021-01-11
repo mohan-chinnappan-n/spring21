@@ -17,7 +17,7 @@
 - [Save Dashboard Results with Filter URL Parameters](#filterurl)
 - [Multi-Field Selection in Reports](#mfrpts)
 
-- [Einstein OCR to detect (beta)(#eocr)
+- [Einstein OCR to detect] (beta)(#eocr)
 
 <a name="customactions"></a>
 ### Pre Spring 21
