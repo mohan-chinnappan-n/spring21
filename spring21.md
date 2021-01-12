@@ -31,6 +31,22 @@
     - Rollups
         - [Perform Rollup-by-Lookup Calculations Faster with Data Processing Engine](#rbl3)
         - [Use the Record Rollup Optimization org preference to improve record rollup performance](#recru)
+    - Data model
+        - [New and Changed Financial Services Cloud Object Fields](https://help.salesforce.com/articleView?id=release-notes.rn_fsc_changed_objects.htm&type=5&release=230)
+    - Data Capture
+        - [Automate Financial Data Capture Using Mappings](https://help.salesforce.com/articleView?id=release-notes.rn_fsc_intelligent_form_reader_mappings.htm&type=5&release=230)
+        - [Extract Information from Uploaded Documents](#extractOCR)
+    - Data Capture
+        -[Compliant Data Sharing](https://help.salesforce.com/articleView?id=release-notes.rn_fsc_compliant_data_sharing.htm&type=5&release=230)
+
+    - Management
+        - [Branch Management](https://help.salesforce.com/articleView?id=release-notes.rn_fsc_branch.htm&type=5&release=230)
+    - UI
+        - [ACR](https://help.salesforce.com/articleView?id=release-notes.rn_fsc_arc.htm&type=5&release=230)
+    - Client Engagement
+        -  To help drive client engagement, the Analytics for Wealth Management app now includes person life event data that you can aggregate into groups. Life events can include occasions such as birthdays or retirement. For example, you can create a marketing campaign for clients near retirement age or send greetings to clients who are recently married.
+            - [Drive Client Engagement with Life Event Insights](https://help.salesforce.com/articleView?id=release-notes.rn_fsc_analytics_life_event_dataset.htm&type=5&release=230)
+
 
 
 <a name="customactions"></a>  [TOPICS](#topics)
@@ -193,8 +209,11 @@ curl -X POST -H "Authorization: Bearer <TOKEN>"\
 <a name="recru"></a>  [TOPICS](#topics)
 ## Use the Record Rollup Optimization org preference to improve record rollup performance
 
-
 ![rup settings](img/fsc-rollup-settings-1.png)
+
+<a name="extractOCR"></a>  [TOPICS](#topics)
+##  Extract Information from Uploaded Documents
+- Accelerate document-driven business processes by using optical character recognition (OCR) technology to extract fields from documents uploaded by borrowers, partners, or loan officers. Any Salesforce process that uses document checklist items can use this new Intelligent Form Reader capability
 
 
 ## Links
