@@ -26,6 +26,10 @@
 - Document processing
     - [Einstein OCR to detect (beta)](#eocr)
 
+- FSC
+    - [Interaction Summaries](#intersum)
+    - Rollups
+        - [Perform Rollup-by-Lookup Calculations Faster with Data Processing Engine](#rbl3)
 <a name="customactions"></a>  [TOPICS](#topics)
 ### Pre Spring 21
 ![pre Spring 21](img/pre-s21-case-1.gif)
@@ -141,7 +145,6 @@
 ## Resources
 - [Get Report Details Emailed in .xlsx Format](https://help.salesforce.com/articleView?id=release-notes.rn_rd_reports_details_email.htm&type=5&release=230)
 
-<
 
 <a name="eocr"></a>  [TOPICS](#topics)
 ## Einstein OCR to Detect Text in PDFs (Beta)
@@ -157,6 +160,35 @@ curl -X POST -H "Authorization: Bearer <TOKEN>"\
 ### References 
 - [Use Einstein OCR to Detect Text in PDFs (Beta)](https://help.salesforce.com/articleView?id=release-notes.rn_einstein_vision_ocr_pdf_support.htm&type=5&release=230)
 - [What is Einstein OCR?](https://metamind.readme.io/docs/what-is-einstein-ocr)
+
+<a name="itersum"></a>  [TOPICS](#topics)
+##  FSC -  Interaction Summaries
+- Structured notes of client or partner interactions and share them with stakeholders in a compliant manner with the new Interaction Summaries feature.
+- Help financial advisors build and deepen customer relationships with the new Interaction Summaries data model. They can manage every aspect of client and partner interactions and take advantage of structured note-taking and compliant, role-based data sharing options
+- Financial advisors can take detailed meeting notes, specify the confidentiality level of the notes, and add action items or next steps. 
+
+![is1](https://resources.docs.salesforce.com/images/eeca8e0b178442a8f98bf44a7553b1a7.png)
+![is2](https://resources.docs.salesforce.com/images/ea4e8860abd7f033dbddea99b8ca20c1.png)
+![is3](https://resources.docs.salesforce.com/images/fcb2d59e16c07e5277703fceea782579.png)
+
+### References 
+- [Capture and Share Meeting Notes with Interaction Summaries](https://help.salesforce.com/articleView?id=release-notes.rn_fsc_interaction_summary.htm&type=5&release=230)
+
+
+
+<a name="rbl3"></a>  [TOPICS](#topics)
+## Perform Rollup-by-Lookup Calculations Faster with Data Processing Engine
+- Uses the superior processing power of Tableau CRM for faster calculations of RBL rules. The new RBL framework lets you convert your existing RBL rules into Data Processing Engine definitions. The high-performance Data Processing Engine definitions significantly reduce the processing time to aggregate financial information. In Data Processing Engine, you have greater flexibility when defining or modifying RBL rules. For example, you can add multiple data sources, define joins and appends, and add formulas to your rules.
+### References 
+- [Perform Rollup-by-Lookup Calculations Faster with Data Processing Engine](https://help.salesforce.com/articleView?id=release-notes.rn_fsc_rbl_dpe.htm&type=5&release=230)
+
+
+
+![rbl3](https://resources.docs.salesforce.com/images/3ea2f43a64a81ede7a5ea2e3ff8365e3.png)
+![rbl32](img/rbl3-1.png)
+
+
+
 
 ## Links
 -  Spring21 Release Webinar for Enterprise Customers [SP]
