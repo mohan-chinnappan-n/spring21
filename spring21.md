@@ -43,6 +43,10 @@
         - [Branch Management](https://help.salesforce.com/articleView?id=release-notes.rn_fsc_branch.htm&type=5&release=230)
     - UI
         - [ACR](https://help.salesforce.com/articleView?id=release-notes.rn_fsc_arc.htm&type=5&release=230)
+    - Mobile-Enabled Components
+        - [Stay Productive with More Financial Services Cloud Lightning Components for Mobile](https://help.salesforce.com/articleView?id=release-notes.rn_fsc_mobile_components.htm&type=5&release=230)
+
+
     - Client Engagement
         -  To help drive client engagement, the Analytics for Wealth Management app now includes person life event data that you can aggregate into groups. Life events can include occasions such as birthdays or retirement. For example, you can create a marketing campaign for clients near retirement age or send greetings to clients who are recently married.
             - [Drive Client Engagement with Life Event Insights](https://help.salesforce.com/articleView?id=release-notes.rn_fsc_analytics_life_event_dataset.htm&type=5&release=230)
