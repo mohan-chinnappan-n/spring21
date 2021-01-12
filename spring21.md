@@ -64,6 +64,9 @@
         - [Anticipate the Future with Time Series Forecasting (Pilot)](https://help.salesforce.com/articleView?id=release-notes.rn_bi_integrate_transformation_timeseriesforecasting.htm&type=5&release=230)
             - Predict measure values based on historical data  and seasonlity
             ![time series forecasting](https://resources.docs.salesforce.com/images/8c5d478b8af921f16618d6c7ecffd729.png)
+        - [Clean Up Your Data by Standardizing Column Value Formats](https://help.salesforce.com/articleView?id=release-notes.rn_bi_integrate_transformation_editattributes.htm&type=5&release=230)
+            - ![col transfrom](https://resources.docs.salesforce.com/images/a3d3ba315a35d9f1ea26ad16850dd7ec.png)
+            - ![col transform2](https://resources.docs.salesforce.com/images/6eeab56509e2e780f8cc54a24b9e7934.png)
 
 
 
