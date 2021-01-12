@@ -56,6 +56,15 @@
         - [Sync Out : SF -> Snowflake : Keep Salesforce Data Fresh in Snowflake](#synchoutSnow)
         - [Export Datasets to .csv with the Data Prep Output Node](#exportcsv)
         - [Merge Prepared Tableau CRM Data into Salesforce with the Salesforce Output Connector (Beta)](#sfout)
+        - Tighter Security Encryption Requirements for Connected Data Sources
+            - TLS protocol version 1.2 is enforced for all connections. Source systems that use TLS v1.1 or below can’t connect until you reconfigure them.
+        - [Sharing Inheritance Coverage Assessment](#easharing)
+        - [ Smart Transform Pilot Program](https://help.salesforce.com/articleView?id=release-notes.rn_bi_integrate_smarttransformpilot.htm&type=5&release=230)
+            -  Time Series Forecasting transformation, Cluster transformation, and pivot functionality in the Aggregate node.
+        - [Anticipate the Future with Time Series Forecasting (Pilot)](https://help.salesforce.com/articleView?id=release-notes.rn_bi_integrate_transformation_timeseriesforecasting.htm&type=5&release=230)
+            - Predict measure values based on historical data  and seasonlity
+            ![time series forecasting](https://resources.docs.salesforce.com/images/8c5d478b8af921f16618d6c7ecffd729.png)
+
 
 
 
@@ -264,7 +273,12 @@ curl -X POST -H "Authorization: Bearer <TOKEN>"\
 ![sfout 2](https://resources.docs.salesforce.com/images/9d2a35d288d12b766b53c76f5eda6df6.png)
 - Save the recipe. When the recipe runs, Tableau CRM writes the output to the Salesforce org.
 
-
+<a name="easharing"></a>  [TOPICS](#topics)
+## Sharing Inheritance Coverage Assessment
+- Easily determine which objects and users are good candidates for Sharing Inheritance with the improved Sharing Inheritance Coverage Assessment
+- Sharing inheritance lets Tableau CRM apply the same sharing setup for your datasets as Salesforce uses for your objects. 
+![sharing inherit](https://resources.docs.salesforce.com/images/32015c79c3715fe142a228be07c66e87.png)
+- A sharing descriptor is the ID of the user or group that has access to the record
 
 ### References
 - [Merge Prepared Tableau CRM Data into Salesforce with the Salesforce Output Connector (Beta)](https://help.salesforce.com/articleView?id=release-notes.rn_bi_integrate_salesforce_output_beta.htm&type=5&release=230)
