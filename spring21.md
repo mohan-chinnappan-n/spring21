@@ -55,6 +55,8 @@
     - Data Integration and Preparation
         - [Sync Out : SF -> Snowflake : Keep Salesforce Data Fresh in Snowflake](#synchoutSnow)
         - [Export Datasets to .csv with the Data Prep Output Node](#exportcsv)
+        - [Merge Prepared Tableau CRM Data into Salesforce with the Salesforce Output Connector (Beta)](#sfout)
+
 
 
 
@@ -247,6 +249,26 @@ curl -X POST -H "Authorization: Bearer <TOKEN>"\
 ### References
 - [Export your Einstein Analytics datasets](https://www.salesforceblogger.com/2020/08/19/export-your-einstein-analytics-datasets/)
 - [Export Datasets to .csv with the Data Prep Output Node](https://help.salesforce.com/articleView?id=release-notes.rn_bi_integrate_output_csv.htm&type=5&release=230)
+
+<a name="sfout"></a>  [TOPICS](#topics)
+## Merge Prepared Tableau CRM Data into Salesforce with the Salesforce Output Connector (Beta)
+-  On the Connect tab of the Data Manager, click Connect to Data. Add a connection on the Output Connections tab and configure it with a Salesforce org’s information. The org credentials you use determine the connector’s access level.
+
+![sfout 1](https://resources.docs.salesforce.com/images/17cacd04ec6556d8daf5bf531ac454bf.png)
+- Build your recipe with Data Prep. In our example, look up and update Salesforce account data with external order data. 
+    - In an Output node, select to write to the Output Connection (1). 
+    - Select the **Salesforce Output connection** to push data to (2) and the object to write to (3). 
+    - Select whether you want the push to UPDATE, INSERT, or UPSERT data (4). 
+    - Map recipe columns to their equivalent external object columns (5).
+
+![sfout 2](https://resources.docs.salesforce.com/images/9d2a35d288d12b766b53c76f5eda6df6.png)
+- Save the recipe. When the recipe runs, Tableau CRM writes the output to the Salesforce org.
+
+
+
+### References
+- [Merge Prepared Tableau CRM Data into Salesforce with the Salesforce Output Connector (Beta)](https://help.salesforce.com/articleView?id=release-notes.rn_bi_integrate_salesforce_output_beta.htm&type=5&release=230)
+
 
 ## Links
 -  Spring21 Release Webinar for Enterprise Customers [SP]
