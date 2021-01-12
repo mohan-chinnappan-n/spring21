@@ -22,6 +22,21 @@
     - [Save Dashboard Results with Filter URL Parameters](#filterurl)
     - [Multi-Field Selection in Reports](#mfrpts)
     - [Report export into xlsx](#rxlsx)
+- Process Automation
+    - [Flow Builder](https://help.salesforce.com/articleView?id=release-notes.rn_forcecom_flow_fbuilder.htm&type=5&release=230)
+        - Refer to the Prior Values of the Record That Triggered Your Flow ($Record__Prior global variable)
+            - ![flow1](https://resources.docs.salesforce.com/images/39eb466001350256f65337f4134e9608.png)
+        - Send Rich Text Emails from Your Flow Using a Send Email Action
+            - Send an email in rich text format by using a Send Email action. 
+            - Previously, only plain text was available for Send Email actions, and you used an email alert to send a rich text email
+            - ![rtf](https://resources.docs.salesforce.com/images/0e9aeefe0e693f572ff7f76bef108c08.png)
+        - Build Multicolumn Screens in Flow Builder (Beta)
+            - You can divide each flow screen into multiple sections and columns to create a visually appealing and effective layout—without touching a single line of code.
+            - ![flow multi col](https://resources.docs.salesforce.com/images/97a75630c4c495d7465ad6b5b102e695.png)
+
+
+        
+ 
 
 - Document processing
     - [Einstein OCR to detect (beta)](#eocr)
