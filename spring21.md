@@ -54,6 +54,14 @@
 - [EA - Tableau CRM](https://help.salesforce.com/articleView?id=release-notes.rn_bi_analytics_cloud.htm&type=5&release=230)
     - Data Integration and Preparation
         - [Sync Out : SF -> Snowflake : Keep Salesforce Data Fresh in Snowflake](#synchoutSnow)
+        - [Export Datasets to .csv with the Data Prep Output Node](#exportcsv)
+
+
+
+
+
+
+
 
 <a name="customactions"></a>  [TOPICS](#topics)
 ### Pre Spring 21
@@ -227,7 +235,18 @@ curl -X POST -H "Authorization: Bearer <TOKEN>"\
 ![Sync out1](https://resources.docs.salesforce.com/images/fdec61a25028c29858e52a68c9513d18.png)
 ![Sync out2](https://resources.docs.salesforce.com/images/48fc9eed865004f9859a9cdc85c21787.png)
 
+<a name="exportcsv"></a>  [TOPICS](#topics)
+## Export Datasets to .csv with the Data Prep Output Node
+- Use the Data Prep output node to save your prepared data from Tableau CRM as a data and schema file. Then you can download the data locally using the public API as a .csv file. 
+- This data push lets you transfer augmented, cleaned, and improved data from Tableau CRM into your external systems for analysis, storage, or to inform business processes. For example, export a dataset from Tableau CRM, then download it locally to explore in Microsoft Excel.
 
+- Build your recipe with Data Prep. In an Output node, select to write to CSV (1). Enter the name (2) of the user who downloads the file. Optionally, specify the maximum file size and maximum number of rows per partition of the CSV file (3).
+![Csv download](https://resources.docs.salesforce.com/images/379fbe8cc783b8d742ac3a46510a809a.png)
+- Save the recipe. When the recipe runs, Tableau CRM writes the output to the Salesforce database.
+
+### References
+- [Export your Einstein Analytics datasets](https://www.salesforceblogger.com/2020/08/19/export-your-einstein-analytics-datasets/)
+- [Export Datasets to .csv with the Data Prep Output Node](https://help.salesforce.com/articleView?id=release-notes.rn_bi_integrate_output_csv.htm&type=5&release=230)
 
 ## Links
 -  Spring21 Release Webinar for Enterprise Customers [SP]
