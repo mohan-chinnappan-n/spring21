@@ -74,6 +74,10 @@
             - Run SQL queries on live datasets
             - Setup > Analytics > [Enable SQL for live datasets (Beta] > [Save]
             ![sql mode](https://resources.docs.salesforce.com/images/44e719aae5b723c512eeb0f2e65d9bc6.png)
+        - Group Data by up to Six Fields in Explorer
+            - You can now group your data by up to six dimensions or date fields in explorer charts and tables. 
+                -  Previously, you edited SAQL queries or JSON files to include more than four groupings for your data.
+
 
 
 
