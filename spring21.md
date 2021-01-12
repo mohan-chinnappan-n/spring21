@@ -26,7 +26,7 @@
 - Document processing
     - [Einstein OCR to detect (beta)](#eocr)
 
-- [FSC](https://help.salesforce.com/articleView?id=release-notes.rn_fsc.htm&type=5&release=230)
+- [**FSC**](https://help.salesforce.com/articleView?id=release-notes.rn_fsc.htm&type=5&release=230)
     - [Interaction Summaries](#intersum)
     - Rollups
         - [Perform Rollup-by-Lookup Calculations Faster with Data Processing Engine](#rbl3)
@@ -51,7 +51,7 @@
         -  To help drive client engagement, the Analytics for Wealth Management app now includes person life event data that you can aggregate into groups. Life events can include occasions such as birthdays or retirement. For example, you can create a marketing campaign for clients near retirement age or send greetings to clients who are recently married.
             - [Drive Client Engagement with Life Event Insights](https://help.salesforce.com/articleView?id=release-notes.rn_fsc_analytics_life_event_dataset.htm&type=5&release=230)
 
-- [EA - Tableau CRM](https://help.salesforce.com/articleView?id=release-notes.rn_bi_analytics_cloud.htm&type=5&release=230)
+- [**EA - Tableau CRM**](https://help.salesforce.com/articleView?id=release-notes.rn_bi_analytics_cloud.htm&type=5&release=230)
     - Data Integration and Preparation
         - [Sync Out : SF -> Snowflake : Keep Salesforce Data Fresh in Snowflake](#synchoutSnow)
         - [Export Datasets to .csv with the Data Prep Output Node](#exportcsv)
