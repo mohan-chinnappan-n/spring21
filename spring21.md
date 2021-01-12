@@ -1,4 +1,4 @@
-# Sprin 21 Release
+# Spring 21 Release
 
 
 ## Topics
