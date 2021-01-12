@@ -51,7 +51,9 @@
         -  To help drive client engagement, the Analytics for Wealth Management app now includes person life event data that you can aggregate into groups. Life events can include occasions such as birthdays or retirement. For example, you can create a marketing campaign for clients near retirement age or send greetings to clients who are recently married.
             - [Drive Client Engagement with Life Event Insights](https://help.salesforce.com/articleView?id=release-notes.rn_fsc_analytics_life_event_dataset.htm&type=5&release=230)
 
-
+- [EA - Tableau CRM](https://help.salesforce.com/articleView?id=release-notes.rn_bi_analytics_cloud.htm&type=5&release=230)
+    - Data Integration and Preparation
+        - [Sync Out : SF -> Snowflake : Keep Salesforce Data Fresh in Snowflake](#synchoutSnow)
 
 <a name="customactions"></a>  [TOPICS](#topics)
 ### Pre Spring 21
@@ -218,6 +220,13 @@ curl -X POST -H "Authorization: Bearer <TOKEN>"\
 <a name="extractOCR"></a>  [TOPICS](#topics)
 ##  Extract Information from Uploaded Documents
 - Accelerate document-driven business processes by using optical character recognition (OCR) technology to extract fields from documents uploaded by borrowers, partners, or loan officers. Any Salesforce process that uses document checklist items can use this new Intelligent Form Reader capability
+
+<a name="synchoutSnow"></a>  [TOPICS](#topics)
+## Sync Out : SF -> Snowflake : Keep Salesforce Data Fresh in Snowflake
+ - Keep your Salesforce data up to date in Snowflake without the need for a third-party ETL tool.
+![Sync out1](https://resources.docs.salesforce.com/images/fdec61a25028c29858e52a68c9513d18.png)
+![Sync out2](https://resources.docs.salesforce.com/images/48fc9eed865004f9859a9cdc85c21787.png)
+
 
 
 ## Links
