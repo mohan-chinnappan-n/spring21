@@ -68,6 +68,12 @@
             - ![col transfrom](https://resources.docs.salesforce.com/images/a3d3ba315a35d9f1ea26ad16850dd7ec.png)
             - ![col transform2](https://resources.docs.salesforce.com/images/6eeab56509e2e780f8cc54a24b9e7934.png)
 
+    - [App Building](https://help.salesforce.com/articleView?id=release-notes.rn_bi_app_building.htm&type=5&release=230)
+        - [Take Action Anywhere on Any Data on up to 100 Records at Once](#takeactions)
+        - [Use SQL with Tableau CRM Direct Data (Beta)](https://help.salesforce.com/articleView?id=release-notes.rn_bi_directdata_sql.htm&type=5&release=230)
+            - Run SQL queries on live datasets
+            - Setup > Analytics > [Enable SQL for live datasets (Beta] > [Save]
+            ![sql mode](https://resources.docs.salesforce.com/images/44e719aae5b723c512eeb0f2e65d9bc6.png)
 
 
 
@@ -285,6 +291,17 @@ curl -X POST -H "Authorization: Bearer <TOKEN>"\
 
 ### References
 - [Merge Prepared Tableau CRM Data into Salesforce with the Salesforce Output Connector (Beta)](https://help.salesforce.com/articleView?id=release-notes.rn_bi_integrate_salesforce_output_beta.htm&type=5&release=230)
+
+<a name="takeactions"></a>
+## Take Action Anywhere on Any Data on up to 100 Records at Once
+- To add a custom action menu to a dimension column in Explorer, click the column action menu for the dimension, and select Configure Actions.
+    ![actions](https://resources.docs.salesforce.com/images/f5a06f4c1cd5e55d41884a047e92a704.png)
+- Configure the actions for the dimension, selecting the ID, display fields, and the actions. Then click Done and save your lens.
+    - ![config](https://resources.docs.salesforce.com/images/8f8c158e96c1478232f8de64ad5961cb.png)
+- Next, enable your dashboard users to take quick action on up to 100 records in the configured column at the same time by adding mass quick actions. Add a values table (1) with actionable data, a faceted chart or filter (2), and a link widget (3) to your dashboard. In the widget properties panel for the link widget, name your link with text that matches the quick action (4). Select Mass Action in the Link To list (5). Select the name of the table query in the step list (6). Select the column name to apply the mass quick action to in the Action Column list (7). Then select the mass quick action to perform in the Salesforce Actions list (8)
+    - ![actions2](https://resources.docs.salesforce.com/images/7aa38c8ecd0f8f7e7e3a64cb53734902.png)
+- In this example, the mass quick action is to update accounts. When the user selects an account type in the faceted chart and then clicks the Update Account link, they can update all the accounts of that type, up to 100 records, using the account ID from the table query.
+
 
 
 ## Links
