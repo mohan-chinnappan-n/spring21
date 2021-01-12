@@ -1,4 +1,4 @@
-# Spring 21 Release
+# Sprin 21 Release
 
 
 ## Topics
@@ -21,6 +21,7 @@
 - Reports and Dashboards
     - [Save Dashboard Results with Filter URL Parameters](#filterurl)
     - [Multi-Field Selection in Reports](#mfrpts)
+    - [Report export into xlsx](#rxlsx)
 
 - Document processing
     - [Einstein OCR to detect (beta)](#eocr)
@@ -131,6 +132,16 @@
 ## References
 - [Streamline Report Creation with Multi-Field Selection](https://help.salesforce.com/articleView?id=release-notes.rn_rd_reports_multifield_select.htm&type=5&release=230)
 
+<a name="rxlsx"></a> [TOPICS](#topics)
+## Report export into xlsx
+
+![rept export](img/rept-export-1.png)
+![report export](https://resources.docs.salesforce.com/images/a291dc3a99044585ceebad9a12d24a34.png)
+
+## Resources
+- [Get Report Details Emailed in .xlsx Format](https://help.salesforce.com/articleView?id=release-notes.rn_rd_reports_details_email.htm&type=5&release=230)
+
+<
 
 <a name="eocr"></a>  [TOPICS](#topics)
 ## Einstein OCR to Detect Text in PDFs (Beta)
