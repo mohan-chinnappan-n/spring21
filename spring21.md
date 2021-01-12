@@ -26,10 +26,13 @@
 - Document processing
     - [Einstein OCR to detect (beta)](#eocr)
 
-- FSC
+- [FSC](https://help.salesforce.com/articleView?id=release-notes.rn_fsc.htm&type=5&release=230)
     - [Interaction Summaries](#intersum)
     - Rollups
         - [Perform Rollup-by-Lookup Calculations Faster with Data Processing Engine](#rbl3)
+        - [Use the Record Rollup Optimization org preference to improve record rollup performance](#recru)
+
+
 <a name="customactions"></a>  [TOPICS](#topics)
 ### Pre Spring 21
 ![pre Spring 21](img/pre-s21-case-1.gif)
@@ -187,7 +190,11 @@ curl -X POST -H "Authorization: Bearer <TOKEN>"\
 ![rbl3](https://resources.docs.salesforce.com/images/3ea2f43a64a81ede7a5ea2e3ff8365e3.png)
 ![rbl32](img/rbl3-1.png)
 
+<a name="recru"></a>  [TOPICS](#topics)
+## Use the Record Rollup Optimization org preference to improve record rollup performance
 
+
+![rup settings](img/fsc-rollup-settings-1.png)
 
 
 ## Links
