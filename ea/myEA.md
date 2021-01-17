@@ -13,9 +13,12 @@
 <a name="mobile"></a>
 ## Screenshots (Mobile)
 
-<img src='img/myEA-1.PNG' width='300'/>
-<img src='img/myEA-2.PNG' width='300'/>
-<img src='img/myEA-3.png' width='300'/>
+<table>
+<tr>
+<td> <img src='img/myEA-1.PNG' width='300'/></td>
+<td><img src='img/myEA-2.PNG' width='300'/></td>
+<td><img src='img/myEA-3.png' width='300'/></td>
+</table>
 
 
 
