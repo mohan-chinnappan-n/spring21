@@ -20,6 +20,7 @@
 <td><img src='img/myEA-3.png' width='300'/></td>
 </table>
 
+<a name="monitor"></a>
 ## Monitor
 ![monitor-desktop](img/myEA-moinitor-1.png)
 
