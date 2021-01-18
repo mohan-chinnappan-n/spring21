@@ -3,7 +3,7 @@
 ## Topics
 - [Desktop](#desktop)
 - [Mobile](#mobile)
-
+- [Monitor](#monitor)
 
 <a name="desktop"></a>
 ## Demo (desktop)
@@ -20,5 +20,8 @@
 <td><img src='img/myEA-3.png' width='300'/></td>
 </table>
 
+## Monitor
+![monitor-desktop](img/myEA-moinitor-1.png)
 
+<img src='img/myEA-monitor-1.png' width='300'/>
 
