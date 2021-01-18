@@ -24,5 +24,5 @@
 ## Monitor
 ![monitor-desktop](img/myEA-moinitor-1.png)
 
-<img src='img/myEA-monitor-1.png' width='300'/>
+<img src='img/myEA-moinitor-2.png' width='300'/>
 
