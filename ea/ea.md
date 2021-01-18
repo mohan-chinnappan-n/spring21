@@ -16,5 +16,8 @@
     - After selecting the Industry query as the data source, set Industry as the field to reference in the tooltip’s custom text (5).
 
 
+## Take Action Anywhere on Any Data on up to 100 Records at Once
 
+![take action](https://resources.docs.salesforce.com/images/f5a06f4c1cd5e55d41884a047e92a704.png)
+- [More info](https://help.salesforce.com/articleView?id=release-notes.rn_bi_actionability.htm&type=5&release=230)
 
