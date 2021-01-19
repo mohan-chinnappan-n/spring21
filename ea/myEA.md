@@ -55,3 +55,6 @@ Dataflow Job Id: 02K3h000000MtyuEAC
 }
 
 ```
+
+## References
+- [SFDX plugin for Analytics](https://www.salesforceblogger.com/2020/11/17/mohans-sfdx-plugin-for-analytics/)
