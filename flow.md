@@ -12,6 +12,7 @@
 
 
 <hr>
+
 ## Flow Debugging
 
 -  Many error emails now contain a link that opens Flow Builder, where you can see the interview’s path on the canvas and the error details. 
@@ -19,6 +20,7 @@
 - [Debug Failed Flows More Easily](https://help.salesforce.com/articleView?id=release-notes.rn_forcecom_flow_fbuilder_debug_email.htm&type=5&release=230)
 
 <hr>
+
 ## Enable Partial Save for Invocable Actions (Update, Enforced)
 
 ### Before
@@ -28,6 +30,7 @@
 - [Release Notes](https://help.salesforce.com/articleView?id=release-notes.rn_forcecom_flow_release_update_partial_save.htm&type=5&release=230)
 
 <hr>
+
 ## Check for Null Record Variables or Null Values of Lookup Relationship Fields in Process and Flow Formulas (Update, Postponed)
 - This update enables process and flow formulas to return null values when 
     - the calculations involve a null record variable or null lookup relationship field. 
@@ -43,6 +46,7 @@
 
 
 <hr>
+
 ## Make Paused Flow Interviews Resume in the Same Context with the Same User Access (Previously Released Update)
 - Paused autolaunched flows always resume in the same context and with the same user access they had before they were paused. 
 - This update is enforced in Winter ‘22.
@@ -60,5 +64,6 @@
 - [Release notes](https://help.salesforce.com/articleView?id=release-notes.rn_forcecom_flow_release_update_resume_with_same_access.htm&type=5&release=230)
 
 <hr>
+
 ## Accurately Measure the CPU Time Consumption of Flows and Processes (Update)
 
