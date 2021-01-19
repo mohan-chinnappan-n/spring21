@@ -81,8 +81,8 @@
     - reduce the number of elements, formulas, and cross-object references. 
     - You can check the debug logs to see how much CPU time is taken by each element, criteria node, and action.
 ### Apply
-![ru2](img/spring-21-ru-2.png)
-![ru3](img/spring-21-ru-3.png)
+- ![ru2](img/spring-21-ru-2.png)
+- ![ru3](img/spring-21-ru-3.png)
 
 
 
