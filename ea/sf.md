@@ -3,7 +3,7 @@
 ## Topics
 - [Limits](#limits)
 - [BulkAPI Jobs](#bulkapijobs)
-
+- [LImits via DX](https://github.com/mohan-chinnappan-n/cli-dx/blob/master/limits.md)
 
 
 <a name='limits'></a>
