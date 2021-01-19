@@ -10,7 +10,7 @@
 
 ## Support for prior values for the triggering account
 - Record-triggered flows can now access **prior values of the triggering record** and can run scheduled paths after the triggering event. 
-
+![prev](https://resources.docs.salesforce.com/images/39eb466001350256f65337f4134e9608.png)
 
 <hr>
 

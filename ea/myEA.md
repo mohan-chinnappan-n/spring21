@@ -57,4 +57,5 @@ Dataflow Job Id: 02K3h000000MtyuEAC
 ```
 
 ## References
+- [Start and stop dataflows on command](https://www.salesforceblogger.com/2021/01/19/start-and-stop-dataflows-on-command/)
 - [SFDX plugin for Analytics](https://www.salesforceblogger.com/2020/11/17/mohans-sfdx-plugin-for-analytics/)
