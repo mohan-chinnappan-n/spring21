@@ -76,7 +76,13 @@
 
 ### TODO
 - We recommend testing all complex flows and processes, which are more likely to exceed this limit.
-
+- Flows and processes fail if they cause a transaction to exceed the CPU time limit, and complex flows and processes are more likely to exceed this limit. 
+- To **decrease the CPU time usage** of a flow or process, 
+    - reduce the number of elements, formulas, and cross-object references. 
+    - You can check the debug logs to see how much CPU time is taken by each element, criteria node, and action.
 ### Apply
-- Setup -> Release Updates, . To get the Accurately Measure the CPU Time Consumption of Flows and Processes release update, follow the testing and activation steps.
+![ru2](img/spring-21-ru-2.png)
+![ru3](img/spring-21-ru-3.png)
+
+
 
