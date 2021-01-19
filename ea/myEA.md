@@ -1,4 +1,4 @@
-# Starting a dataflow job in Slack 
+# Starting a dataflow job and monitor dataflow jobs using Slack 
 
 ## Topics
 - [Desktop](#desktop)
