@@ -5,7 +5,8 @@
 - Lightning Flow Builder and Lightning Process Builder are now called Flow Builder and Process Builder.
 
 
-<hr/>
+<hr>
+
 ## Support for prior values for the triggering account
 - Record-triggered flows can now access **prior values of the triggering record** and can run scheduled paths after the triggering event. 
 
