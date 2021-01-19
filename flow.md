@@ -4,6 +4,7 @@
 - Lightning Flow is now called Salesforce Flow
 - Lightning Flow Builder and Lightning Process Builder are now called Flow Builder and Process Builder.
 
+![ru](img/spring-21-ru-1.png)
 
 <hr>
 
@@ -66,4 +67,16 @@
 <hr>
 
 ## Accurately Measure the CPU Time Consumption of Flows and Processes (Update)
+### Before
+- CPU time consumed was occasionally incorrect or misattributed to other automation occurring later in the transaction, such as Apex triggers
+### Now
+- Salesforce accurately measures, logs, and limits the CPU time consumed by all flows and processes. 
+- Now you can properly identify performance bottlenecks that cause the maximum per-transaction CPU time consumption limit to be exceeded. 
+    - Because CPU time is now accurately counted, flows and processes fail after executing the element, criteria node, or action that pushes a transaction over the CPU limit.
+
+### TODO
+- We recommend testing all complex flows and processes, which are more likely to exceed this limit.
+
+### Apply
+- Setup -> Release Updates, . To get the Accurately Measure the CPU Time Consumption of Flows and Processes release update, follow the testing and activation steps.
 
