@@ -11,7 +11,10 @@
 ## Demo (desktop)
 ![demo-myEA](img/myEA-1.gif)
 
+## Demo 2
+![demo-myEA2](img/myEA-2.gif)
 
+#
 <a name="mobile"></a>
 ## Screenshots (Mobile)
 
