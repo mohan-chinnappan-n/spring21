@@ -1,6 +1,10 @@
 # Starting a dataflow job and monitor dataflow jobs using Slack 
 
+## Help Command
+<img src='img/help-1.png' width='300'/></td>
+
 ![help](img/help-1.png)
+
 ## Topics
 - [Desktop](#desktop)
 - [Mobile](#mobile)
@@ -21,7 +25,7 @@
 
 <table>
 <tr>
-<td> <img src='img/myEA-1.PNG' width='300'/></td>
+<td> <img src='img/myea-1.png' width='300'/></td>
 <td><img src='img/myEA-2.PNG' width='300'/></td>
 <td><img src='img/myEA-3.png' width='300'/></td>
 </table>
