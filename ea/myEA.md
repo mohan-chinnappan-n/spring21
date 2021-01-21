@@ -1,14 +1,28 @@
 # Starting a dataflow job and monitor dataflow jobs using Slack 
 
+
+## Topics
+- [Setup](#setup)
+- [Help](#help)
+
+
+- [Desktop](#desktop)
+- [Mobile](#mobile)
+
+- [Monitor](#monitor)
+
+- [DX](#dx)
+
+
+<a name="setup"></a>
+## Setup
+![myEA setup](img/myEA-setup-1.gif)
+
+
+<a name="help"></a>
 ## Help Command
 <img src='img/help-1.png' width='400'/></td>
 
-## Topics
-- [Desktop](#desktop)
-- [Mobile](#mobile)
-- [DX](#dx)
-
-- [Monitor](#monitor)
 
 <a name="desktop"></a>
 ## Demo (desktop)
