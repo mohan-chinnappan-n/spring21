@@ -16,8 +16,8 @@
 
 <a name="setup"></a>
 ## Setup
-- [Url to start](http://mohansun-myea.herokuapp.com/add.html)
-- http://mohansun-myea.herokuapp.com/add.html
+- [Url to start](https://mohansun-myea.herokuapp.com/add.html)
+- https://mohansun-myea.herokuapp.com/add.html
 
 ![myEA setup](img/myEA-setup-1.gif)
 
