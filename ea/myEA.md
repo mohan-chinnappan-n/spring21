@@ -1,7 +1,7 @@
 # Starting a dataflow job and monitor dataflow jobs using Slack 
 
 ## Help Command
-<img src='img/help-1.png' width='300'/></td>
+<img src='img/help-1.png' width='400'/></td>
 
 ![help](img/help-1.png)
 
