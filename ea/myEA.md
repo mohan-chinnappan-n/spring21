@@ -3,8 +3,6 @@
 ## Help Command
 <img src='img/help-1.png' width='400'/></td>
 
-![help](img/help-1.png)
-
 ## Topics
 - [Desktop](#desktop)
 - [Mobile](#mobile)
