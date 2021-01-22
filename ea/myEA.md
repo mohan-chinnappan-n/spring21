@@ -14,6 +14,7 @@
 
 
 - [Mobile](#mobile)
+- [Mobile Demo](https://mohan-chinnappan-n2.github.io/2020/myEAMobile.html)
 
 - [Monitor](#monitor)
 - [Dataflow job](#dfjob)
