@@ -35,7 +35,11 @@
 ## Demo 2
 ![demo-myEA2](img/myEA-2.gif)
 
-#
+## Demo 3
+![demo-myEA3](img/myEA-demo-3.gif)
+
+
+
 <a name="mobile"></a>
 ## Screenshots (Mobile)
 
