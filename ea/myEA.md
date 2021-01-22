@@ -10,6 +10,7 @@
 - [Mobile](#mobile)
 
 - [Monitor](#monitor)
+- [Dataflow job](#dfjob)
 
 - [DX](#dx)
 
@@ -50,6 +51,10 @@
 ![monitor-desktop](img/myEA-moinitor-1.png)
 
 <img src='img/myEA-moinitor-2.png' width='300'/>
+
+<a name="dfjob"></a>
+## Dataflow Job
+![dfjob1](img/myEA-dfjob-1.gif)
 
 <a name="dx"></a>
 ## Using DX
