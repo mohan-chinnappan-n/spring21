@@ -76,6 +76,7 @@
 <td> <img src='img/myEA-Mobile-8.PNG' width='300'/></td>
 </table>
 <hr/>
+
 <a name="monitor"></a>
 ## Monitor
 ![monitor-desktop](img/myEA-moinitor-1.png)
