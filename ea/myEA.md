@@ -7,6 +7,12 @@
 
 
 - [Desktop](#desktop)
+    - [Demo 1](#demo1)
+    - [Demo 2](#demo2)
+    - [Demo 3](#demo3)
+
+
+
 - [Mobile](#mobile)
 
 - [Monitor](#monitor)
@@ -29,12 +35,15 @@
 
 
 <a name="desktop"></a>
-## Demo (desktop)
+<a name="demo1"></a>
+## Demo 1 (desktop)
 ![demo-myEA](img/myEA-1.gif)
 
+<a name="demo2"></a>
 ## Demo 2
 ![demo-myEA2](img/myEA-2.gif)
 
+<a name="demo3"></a>
 ## Demo 3
 ![demo-myEA3](img/myEA-demo-3.gif)
 
