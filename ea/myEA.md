@@ -58,11 +58,18 @@
 <td> <img src='img/myEA-Mobile-2.PNG' width='300'/></td>
 <td> <img src='img/myEA-Mobile-3.PNG' width='300'/></td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td> <img src='img/myEA-Mobile-4.PNG' width='300'/></td>
 <td> <img src='img/myEA-Mobile-5.PNG' width='300'/></td>
 <td> <img src='img/myEA-Mobile-6.PNG' width='300'/></td>
 </tr>
+</table>
+
+
+<table>
 <td> <img src='img/myEA-Mobile-7.PNG' width='300'/></td>
 <td> <img src='img/myEA-Mobile-8.PNG' width='300'/></td>
 </table>
