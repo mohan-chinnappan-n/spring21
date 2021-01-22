@@ -59,6 +59,7 @@
 <td> <img src='img/myEA-Mobile-3.PNG' width='300'/></td>
 </tr>
 </table>
+<hr>
 
 <table>
 <tr>
@@ -68,12 +69,13 @@
 </tr>
 </table>
 
+<hr/>
 
 <table>
 <td> <img src='img/myEA-Mobile-7.PNG' width='300'/></td>
 <td> <img src='img/myEA-Mobile-8.PNG' width='300'/></td>
 </table>
-
+<hr/>
 <a name="monitor"></a>
 ## Monitor
 ![monitor-desktop](img/myEA-moinitor-1.png)
