@@ -13,3 +13,6 @@
 ## References
 - [Session Security](https://help.salesforce.com/articleView?id=security_overview_sessions.htm&type=5)
 - [Edit Session Settings in Profiles](https://help.salesforce.com/articleView?id=users_profiles_session.htm&type=5)
+- [Idea: Use Permission Sets to Assign Login IP Ranges](https://trailblazer.salesforce.com/ideaView?id=08730000000ksd2AAA)
+
+
